@@ -1,0 +1,39 @@
+Begin by bending the ground pin on the socket inward.
+This is the pin that sticks out on the side of the socket.
+
+Now apply some solder to the ground pin and the left audio channel pin.
+The left audio channel pin is on the other side of the socket.
+
+Test fit the button to check if it fits. Remove the button again and
+apply some solder to two pins on the same side of the button.
+
+Strip 2 wires and apply some solder to them.
+Solder the wires to the button.
+
+Now measure how long the wire needs to be between the socket and the button.
+Beware that there is not much space for extra wire.
+
+Cut the wires and strip them.
+Apply some solder and solder the wires to the socket.
+
+Now bend the left and right audio channel pins inward
+(or better, cut the right audio channel pin as we don't need it).
+
+Place the socket in the model making sure the socket is in the hole on the front.
+place it as far forward as it goes.
+
+Place the button. Make sure it's pins are not touching the socket's pins.
+
+If you have a tester, you can now test the button and fix issues.
+
+Place top cover and snap everything in place.
+
+Place button cap.
+
+Take a piece of velcro and hotglue it to the bottom making sure
+the 'hook' side (the rough side) is facing down. The soft part should be touching
+the button model.
+
+Wait for it to cool and remove any excess glue if needed.
+
+The button should be finished now.
