@@ -1,2 +1,4 @@
 # ps4adaptive
-A repository for the ps4 adaptive controller
+This is the place to keep design files for the ps4 adaptive controller.
+
+Placeholder for now...
