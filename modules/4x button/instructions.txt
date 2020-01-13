@@ -1,0 +1,15 @@
+
+Instructions:
+
+Pre-solder the button terminals
+Pre-solder the socket terminals and bend the ground pin down and the middle pin inwards.
+measure and cut 8 wires to length, some extra is no problem.
+strip wires
+pre-solder wires (both ends) and solder them to the buttons
+slide in buttons and makre sure wire is long enough
+press down button (tight fit) (if button placement is wrong, you can press the buttons up from holes on the bottom of the 3D print)
+solder wires to sockets
+test (if possible)
+close print
+hot glue strips of velcro.
+
