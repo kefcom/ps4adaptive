@@ -1,0 +1,24 @@
+instructions:
+
+cut button pins to length (about half of the original size)
+pre-solder button pins
+pre-solder wires
+pre-solder sockets
+
+solder wires to buttons
+thread wires as shown in the video and place buttons
+
+solder wires to sockets
+
+place sockets
+
+test (if possible)
+
+place coverplate
+
+place flexpad on the buttons
+place d-pad rocker and topcover
+
+if it all fits nice, glue the topcover in the corners and stick it on the design.
+
+glue velcro strips

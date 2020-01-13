@@ -1,0 +1,12 @@
+requirements:
+
+1x 3D printed model
+4x button ( https://www.aliexpress.com/item/32653516999.html?spm=a2g0s.9042311.0.0.27424c4dKcKKFx )
+4x socket ( http://s.click.aliexpress.com/e/Kc5NQbvO )
+1x flexpad (from original controller)
+1x D-pad rocker (from original controller)
+wire ( https://www.aliexpress.com/item/802052578.html?spm=a2g0s.9042311.0.0.27424c4dJSQu5i )
+
+soldering iron
+hot glue
+velcro (optional)
