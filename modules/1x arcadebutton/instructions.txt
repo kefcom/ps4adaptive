@@ -1,0 +1,17 @@
+Instrucions:
+
+Strip wires
+Pre-solder wires
+Pre-solder button pins
+Pre-solder socket
+
+Solder wires to button pins
+Bend button pins flat
+Place button and thread wire
+(button needs to be flat to top of print)
+Solder wires to socket
+Place socket and tighten locknut
+
+place cover
+
+test (if possible)

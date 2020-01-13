@@ -1,0 +1,10 @@
+requirements:
+
+1x 3D printed model
+1x 3.5mm socket
+1x arcade button
+wire
+velcro
+
+soldering iron
+hot glue
