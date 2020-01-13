@@ -1,0 +1,10 @@
+requirements:
+
+1x 3D print
+1x rocker switch on-off-on ( http://s.click.aliexpress.com/e/rtgyRHsM )
+2x 3.5mm socket ( http://s.click.aliexpress.com/e/Kc5NQbvO )
+wire ( https://www.aliexpress.com/item/802052578.html?spm=a2g0s.9042311.0.0.27424c4dJSQu5i )
+velcro (optional from action (local shop))
+
+soldering iron
+hot glue

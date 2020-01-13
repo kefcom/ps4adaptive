@@ -1,0 +1,13 @@
+instructions:
+
+strip wires
+pre-solder wires
+pre-solder rocker switch
+pre-solder sockets
+
+solder wires to rocker switch (2 wires to the middle terminal, one to the upper and bottom one)
+place switch and thread wires (1 from the middle + 1 from the top or bottom) to each side
+solder wires to the sockets (the wire from the middle goes to the ground pin (the one on the outside))
+place sockets and tighten
+
+place cover.
