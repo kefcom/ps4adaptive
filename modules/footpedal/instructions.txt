@@ -1,0 +1,21 @@
+Instructions:
+
+unpack the pedal
+unscrew screw at the bottom
+remove locking pin by holdin the pedal pressed down and pushing against the pin.
+unscrew wire clamp
+unscrew 2 screws holding the button in place
+desolder existing wires
+pre-solder new wires
+pre-solder 3.5mm socket
+remove or bend middle pin from 3.5mm socket, we will not be using it
+solder wires from ground to ground and from NC to the remaining pin on the 3.5mm socket
+place 3.5mm socket in the pedal
+place button in original position and fasten screws
+now hold the 3.5mm socket in place and pour hotglue down the sides. Be carefull not to get glue in the back of the socket as it will stop the socket from working properly.
+let it dry enough to stay in place
+pour a little bit of hot glue in the top part of the pedal where the spring sits
+glue spring in place on the top part
+place top part back onto the bottom part and insert locking pin
+screw down bottom screw
+test
