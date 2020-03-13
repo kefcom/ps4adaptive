@@ -1,0 +1,11 @@
+Instructions:
+
+Print the model
+pre-solder the socket
+solder motor wires to the socket (top and bottom pin, order should not be important)
+fit socket in the model
+secure socket with nut
+place motor in the model
+hotglue sided of the model
+slide the other part of the model to close it
+done.
