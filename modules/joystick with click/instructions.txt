@@ -1,0 +1,29 @@
+Instructions:
+
+Print the model
+cut wire: 
+- 1 to strech over the 3 sockets to ground (strip completely)
+- 1 to stretch over 2 sockets to +5v (strip completely)
+- and 3 small wires to the other pins (strip ends)
+pre-solder wires
+pre-solder sockets (all 3 pins)
+pre-solder pins on joystick
+solder wire accross top pins of the three sockets
+solder wire accross bottom pins of two of the sockets
+solder top wire to gnd
+solder bottom wire to +5v
+solder bottom pin of remaining socket to sw
+solder mid pins of the two other sockets to VRx and VRy
+fit sockets into holes
+test fit the joystick module (you might need to bend some pins) make sure the pins are not touching each other!
+remove joystick module and place some hotglue under it, then place it back
+let glue dry
+lock sockets in place with nuts
+test fit top part of the 3D print
+place joystick cap and test if you can move in all directions
+if all good: hotglue the sides, put top part in place
+let glue dry
+hotglue some velcro to bottom
+
+done
+
