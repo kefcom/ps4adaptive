@@ -1,0 +1,22 @@
+Instructions:
+
+Print the model
+cut wire: 
+- 6 wires to cover row 1 to the sockets
+- 6 wires to cover row 2 to the sockets
+strip wire ends
+pre-solder sockets (top and bottom pin)
+pre-solder wires
+pre-solder pins on keyboard switches
+solder wires to keyboard switches
+thread wires trough holes in the print to where the sockets go (alternate a long one (second row) first, then a short one (first row))
+solder wire to socket and tighten
+repeat for all switches
+test
+place keycaps
+place a strip of hot glue on top of switches and secure cover plate
+glue velcro strips to bottom
+
+
+done
+
