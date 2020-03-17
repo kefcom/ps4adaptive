@@ -1,0 +1,18 @@
+Instructions:
+
+Print the model
+cut and strip 2 wires
+pre-solder socket (top and bottom pin)
+pre-solder wires
+pre-solder pins on keyboard switch
+solder wires to keyboard switch
+thread wires trough holes in the print to where the socket goes
+solder wire to socket and tighten
+test
+place keycaps
+place a strip of hot glue on top of socket and on the side of the cover plate, then secure cover plate
+glue velcro strip to bottom
+
+
+done
+

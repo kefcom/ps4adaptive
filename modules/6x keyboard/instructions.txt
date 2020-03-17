@@ -14,7 +14,7 @@ solder wire to socket and tighten
 repeat for all switches
 test
 place keycaps
-place a strip of hot glue on top of switches and secure cover plate
+place a strip of hot glue on top of sockets and secure cover plate
 glue velcro strips to bottom
 
 
