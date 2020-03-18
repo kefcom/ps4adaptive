@@ -1,0 +1,48 @@
+PS4 Adaptive controller
+Bill of materials:
+
+
+1x project case:
+	Description: Plastic Electronic Project Box Enclosure Instrument Shell Case DIY 130x170x55MM Wholesale&DropShip
+	Price (can change over time): €3,63
+	Link: https://s.click.aliexpress.com/e/_dZoKXoF
+
+1x Lasercut or 3D printed front plate
+	Description: Front plate to hold the sockets
+	Price (can change over time): /
+	Link: you can find the models in the 'models' folder.
+
+1x Lasercut or 3D printed back plate
+	Description: Back plate for the controller
+	Price (can change over time): /
+	Link: you can find the models in the 'models' folder.
+
+1x 3D printed PCB holder
+	Description: A 3D print to hold the pcb
+	Price (can change over time): /
+	Link: you can find the models in the 'models' folder.
+
+1x PS4 compatible controller
+	Description: A wireless PS4 compatible controller
+	Price (can change over time): ~€18€
+	Link: https://s.click.aliexpress.com/e/_dY3XY7H 
+
+24x 3.5mm Stereo audio jacks
+	Description: Stereo audio jacks (mono jacks work for buttons, but not for the speaker and the joysticks, so make sure they are stereo!)
+	Price (can change over time): ~€18€ / 10pcs
+	Link: https://s.click.aliexpress.com/e/_dXcfpWr 
+
+51 Wires
+	Description: Wire to solder the pcb to the sockets. I prefer rainbow wire
+	Price (can change over time): 2.72€
+	Link: https://www.aliexpress.com/item/802052578.html
+
+22x Audio cables
+	Description: Standard stereo audio cabled to connect modules to the controller
+	Price (can change over time): 0.7€ / 1m
+	Link: https://s.click.aliexpress.com/e/_dTZJgun 	
+
+4x Screws
+	Description: Diameter: 2.9 x 9.5mm
+	Price: €2.39 / 40pcs
+	Link: No link, check local hardware store.
