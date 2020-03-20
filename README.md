@@ -5,7 +5,7 @@ Here you can find every file to create your own controller and modules.
 
 
 ## Current version: 0.1 beta
-## PCB modelnumber: 191105-v11
+## Supported PCB modelnumbers: 191105-v11, C1931
 
-To get you started: go to the 'controller' folder and open the folder with the current pcb version.
+To get you started: Use the controller identifier document to figure out what type of pcb is in your controller, then go to the 'controller' folder and open the folder with that pcb version number.
 Here you can find instructions, source files and a bill of materials.
