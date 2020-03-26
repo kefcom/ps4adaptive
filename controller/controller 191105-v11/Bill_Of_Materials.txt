@@ -30,7 +30,7 @@ Bill of materials:
 24x 3.5mm Stereo audio jacks
 	Description: Stereo audio jacks (mono jacks work for buttons, but not for the speaker and the joysticks, so make sure they are stereo!)
 	Price (can change over time): ~€18€ / 10pcs
-	Link: https://s.click.aliexpress.com/e/_dXcfpWr 
+	Link: https://s.click.aliexpress.com/e/_dVuoD62
 
 51 Wires
 	Description: Wire to solder the pcb to the sockets. I prefer rainbow wire
