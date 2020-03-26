@@ -24,12 +24,12 @@ Bill of materials:
 
 1x PS4 compatible controller
 	Description: A wireless PS4 compatible controller
-	Price (can change over time): ~€18€
+	Price (can change over time): ~18€
 	Link: https://s.click.aliexpress.com/e/_dY3XY7H 
 
 24x 3.5mm Stereo audio jacks
 	Description: Stereo audio jacks (mono jacks work for buttons, but not for the speaker and the joysticks, so make sure they are stereo!)
-	Price (can change over time): ~€18€ / 10pcs
+	Price (can change over time): ~0.91€ / 10pcs
 	Link: https://s.click.aliexpress.com/e/_dVuoD62
 
 51 Wires
